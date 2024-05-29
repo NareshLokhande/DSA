@@ -1,0 +1,15 @@
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.exe
+F:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.deps.json
+F:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.runtimeconfig.json
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.dll
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.pdb
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfo.cs
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.sourcelink.json
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.dll
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\refint\SumOfTwoNumbers.dll
+f:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.pdb
+F:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.genruntimeconfig.cache
+F:\CDAC\CPP-JAVA-C#\C#\SumOfTwoNumbers\obj\Debug\net8.0\ref\SumOfTwoNumbers.dll
