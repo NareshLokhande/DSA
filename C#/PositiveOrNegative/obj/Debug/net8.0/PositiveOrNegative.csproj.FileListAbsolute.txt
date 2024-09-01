@@ -1,0 +1,15 @@
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.AssemblyInfoInputs.cache
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.AssemblyInfo.cs
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.csproj.CoreCompileInputs.cache
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.sourcelink.json
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\bin\Debug\net8.0\PositiveOrNegative.exe
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\bin\Debug\net8.0\PositiveOrNegative.deps.json
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\bin\Debug\net8.0\PositiveOrNegative.runtimeconfig.json
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\bin\Debug\net8.0\PositiveOrNegative.dll
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\bin\Debug\net8.0\PositiveOrNegative.pdb
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.dll
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\refint\PositiveOrNegative.dll
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.pdb
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\PositiveOrNegative.genruntimeconfig.cache
+F:\CDAC\CPP-JAVA-C#\C#\PositiveOrNegative\obj\Debug\net8.0\ref\PositiveOrNegative.dll

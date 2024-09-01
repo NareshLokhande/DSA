@@ -1,0 +1,15 @@
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\bin\Debug\net8.0\GreatestOfThree.exe
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\bin\Debug\net8.0\GreatestOfThree.deps.json
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\bin\Debug\net8.0\GreatestOfThree.runtimeconfig.json
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\bin\Debug\net8.0\GreatestOfThree.dll
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\bin\Debug\net8.0\GreatestOfThree.pdb
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.AssemblyInfoInputs.cache
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.AssemblyInfo.cs
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.csproj.CoreCompileInputs.cache
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.sourcelink.json
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.dll
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\refint\GreatestOfThree.dll
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.pdb
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\GreatestOfThree.genruntimeconfig.cache
+F:\CDAC\CPP-JAVA-C#\C#\GreatestOfThree\obj\Debug\net8.0\ref\GreatestOfThree.dll

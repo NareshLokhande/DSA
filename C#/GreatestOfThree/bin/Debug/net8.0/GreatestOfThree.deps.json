@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GreatestOfThree/1.0.0": {
+        "runtime": {
+          "GreatestOfThree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GreatestOfThree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
