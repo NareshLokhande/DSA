@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "Java.Number.LCM",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
             "name": "Hcf",
             "request": "launch",
             "mainClass": "Java.NumberCodes.Hcf",

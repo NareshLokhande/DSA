@@ -18,5 +18,6 @@ public class PerfectSquare {
         }
         else
         System.out.println("False");
+        sc.close();
     }
 }
