@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CDAC\\CPP-JAVA-C#\\c#\\SumOfTwoNumbers\\SumOfTwoNumbers.csproj",
+      "projectUniqueName": "F:\\CDAC\\DSA\\C#\\SumOfTwoNumbers\\SumOfTwoNumbers.csproj",
       "projectName": "SumOfTwoNumbers",
-      "projectPath": "F:\\CDAC\\CPP-JAVA-C#\\c#\\SumOfTwoNumbers\\SumOfTwoNumbers.csproj",
+      "projectPath": "F:\\CDAC\\DSA\\C#\\SumOfTwoNumbers\\SumOfTwoNumbers.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\CDAC\\CPP-JAVA-C#\\c#\\SumOfTwoNumbers\\obj\\",
+      "outputPath": "F:\\CDAC\\DSA\\C#\\SumOfTwoNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

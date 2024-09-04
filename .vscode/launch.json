@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hcf",
+            "request": "launch",
+            "mainClass": "Java.NumberCodes.Hcf",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
+            "name": "HcfNum",
+            "request": "launch",
+            "mainClass": "Java.NumberCodes.HcfNum",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
+            "name": "HcfNum",
+            "request": "launch",
+            "mainClass": "Java.Numbers.HcfNum",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquare",
+            "request": "launch",
+            "mainClass": "PerfectSquare",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
             "name": "LeapYear",
             "request": "launch",
             "mainClass": "LeapYear",

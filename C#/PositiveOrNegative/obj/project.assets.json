@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CDAC\\CPP-JAVA-C#\\C#\\PositiveOrNegative\\PositiveOrNegative.csproj",
+      "projectUniqueName": "F:\\CDAC\\DSA\\C#\\PositiveOrNegative\\PositiveOrNegative.csproj",
       "projectName": "PositiveOrNegative",
-      "projectPath": "F:\\CDAC\\CPP-JAVA-C#\\C#\\PositiveOrNegative\\PositiveOrNegative.csproj",
+      "projectPath": "F:\\CDAC\\DSA\\C#\\PositiveOrNegative\\PositiveOrNegative.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\CDAC\\CPP-JAVA-C#\\C#\\PositiveOrNegative\\obj\\",
+      "outputPath": "F:\\CDAC\\DSA\\C#\\PositiveOrNegative\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
