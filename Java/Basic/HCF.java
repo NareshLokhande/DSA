@@ -1,5 +1,3 @@
-package Java.Number;
-
 import java.util.Scanner;
 
 public class HCF {
@@ -16,12 +14,12 @@ public class HCF {
         int num2 = sc.nextInt();
 
         int HCF = getHCF(num1, num2);
-       
+
         // Method 1
         // for (int i = 1; i <= num1 || i <= num2; i++) {
-        //     if (num1 % i == 0 && num2 % i == 0) {
-        //         HCF = i;
-        //     }
+        // if (num1 % i == 0 && num2 % i == 0) {
+        // HCF = i;
+        // }
         // }
         System.out.println("The HCF is : " + HCF);
 
