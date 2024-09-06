@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "largerElement",
+            "request": "launch",
+            "mainClass": "largerElement",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
             "name": "LCM",
             "request": "launch",
             "mainClass": "Java.Number.LCM",
