@@ -30,8 +30,7 @@ public class CoffeeShop {
             currentOrderCount++;
             System.out.println("Thank you for your order!");
         }
-        System.out.println();
-        System.out.println("Another great day at the coffee shop! Today we made " + dailyRevenue + " dollars!");
+        System.out.println("\nAnother great day at the coffee shop! Today we made " + dailyRevenue + " dollars! \n");
         sc.close();
     }
 

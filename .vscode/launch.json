@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CoffeeShop",
+            "request": "launch",
+            "mainClass": "CoffeeShop",
+            "projectName": "DSA_f784ecc1"
+        },
+        {
+            "type": "java",
             "name": "largerElement",
             "request": "launch",
             "mainClass": "largerElement",
